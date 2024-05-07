@@ -1,6 +1,6 @@
 # React setup Project
 <a aria-label="last comit" href="https://es.react.dev/">
-    <img alt="last commit" src=
+    <img width="300px" alt="last commit" src=
   "https://cdn.worldvectorlogo.com/logos/react-2.svg">
 </a>
 
